@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+  <rect width="120" height="80" rx="8" fill="#0b1220"/>
+  <g fill="#ffcc00">
+    <circle cx="30" cy="40" r="10" />
+    <rect x="46" y="28" width="48" height="24" rx="4" fill="#ffcc00"/>
+  </g>
+  <text x="60" y="50" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#071021" text-anchor="middle">steamtools.exe</text>
+  <text x="60" y="64" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#cbd5e1" text-anchor="middle">KNOWN MALWARE - DO NOT RUN</text>
+</svg>

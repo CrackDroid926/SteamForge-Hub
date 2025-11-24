@@ -6,6 +6,7 @@ const PRECACHE_URLS = [
   'main.css',
   'main.js',
   'disclaimer.html',
+  'appid.html',
   'assets/screenshots/screenshots.json',
   'assets/screenshots/steamtools-warning.svg'
 ];
