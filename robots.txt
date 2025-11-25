@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://crackdroid926.github.io/SteamForge-Hub/sitemap.xml
+Sitemap: https://crackdroid926.github.io/SteamTools/sitemap.xml
 # Crawl-delay can be adjusted in Cloudflare settings if needed
